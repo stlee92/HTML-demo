@@ -1,0 +1,44 @@
+h1 {
+  color: rgb(99, 178, 246);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h2 {
+  color: blue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color: blue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h4 {
+  color: blue;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+p {
+  color: antiquewhite;
+}
+
+.promo-subheading {
+  color: blueviolet;
+}
+
+.box-model-demo {
+  /* border: 1px solid black; */
+  border-bottom: 1px solid red;
+  border-right: 1px solid purple;
+  border-left: 1px solid blue;
+  border-top: 1px solid green;
+  padding: 10px 20px;
+  margin: 10px 20px 30px 40px;
+}
+
+/* 
+font-family:""
+*/
